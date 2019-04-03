@@ -1,4 +1,4 @@
-import cPickle as pickle
+import _pickle as pickle
 from lasagne.init import Normal
 from lasagne.layers import InputLayer
 from lasagne.layers import LSTMLayer
